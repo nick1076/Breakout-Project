@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=USB_VCC Pin=P1-1
+Added Pin To Net: NetName=D+ Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=USB_VCC Pin=P2-1
+Added Pin To Net: NetName=D- Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=Schematic Member=Component P1 61300411121
