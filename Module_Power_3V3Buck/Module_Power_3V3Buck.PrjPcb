@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDBTDRCW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Module_Power_3V3Buck\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
